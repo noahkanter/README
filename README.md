@@ -1,1 +1,2 @@
 # README
+My Github has no repositories at the moment because projects completed as part of a class cannot be uploaded publicly to Github as it would be considered a violation of academic integrity and could result in disciplinary action taken by my university. These projects are only available on request. Another project of mine will soon be public, but I am currently in the process of streamlining the code and adding a readme to explain its purpose. 
